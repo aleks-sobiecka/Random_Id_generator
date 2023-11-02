@@ -1,0 +1,1 @@
+The id generator returns a random string with the length entered by the user of the function.
